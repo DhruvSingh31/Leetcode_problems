@@ -10,7 +10,7 @@ class Solution {
             }
             num3 = num3/10;
         }
-        System.out.println("the output is "+ans);
+        System.out.println("The output is "+ans);
         return ans;
     }
 }
